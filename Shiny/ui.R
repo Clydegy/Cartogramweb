@@ -6,7 +6,9 @@ fluidPage(
   sidebarLayout(
     sidebarPanel(
       radioButtons('index', 'Index',
-                   c('Population (2005)'='pop',
+                   c('United States of America'='USA',
+                     'China'='CHN',
+                     'India'='IND',
                      'Other'='other'),
                    ','),
       conditionalPanel(

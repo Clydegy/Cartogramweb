@@ -1,0 +1,51 @@
+name,abbreviation,Winning.Party,electors,FIPS.Code
+Alabama,AL,Republicans,9,1
+Arizona,AZ,Republicans,11,4
+Arkansas,AR,Republicans,6,5
+California,CA,Democrats,55,6
+Colorado,CO,Democrats,9,8
+Connecticut,CT,Democrats,7,9
+Delaware,DE,Democrats,3,10
+District of Columbia,DC,Democrats,3,11
+Florida,FL,Republicans,29,12
+Georgia,GA,Republicans,16,13
+Idaho,ID,Republicans,4,16
+Illinois,IL,Democrats,20,17
+Indiana,IN,Republicans,11,18
+Iowa,IA,Republicans,6,19
+Kansas,KS,Republicans,6,20
+Kentucky,KY,Republicans,8,21
+Louisiana,LA,Republicans,8,22
+Maine1,ME1,Democrats,3,2301
+Maine2,ME2,Republicans,1,2302
+Maryland,MD,Democrats,10,24
+Massachusetts,MA,Democrats,11,25
+Michigan,MI,Republicans,16,26
+Minnesota,MN,Democrats,10,27
+Mississippi,MS,Republicans,6,28
+Missouri,MO,Republicans,10,29
+Montana,MT,Republicans,3,30
+Nebraska,NE,Republicans,5,31
+Nevada,NV,Democrats,6,32
+New Hampshire,NH,Democrats,4,33
+New Jersey,NJ,Democrats,14,34
+New Mexico,NM,Democrats,5,35
+New York,NY,Democrats,29,36
+North Carolina,NC,Republicans,15,37
+North Dakota,ND,Republicans,3,38
+Ohio,OH,Republicans,18,39
+Oklahoma,OK,Republicans,7,40
+Oregon,OR,Democrats,7,41
+Pennsylvania,PA,Republicans,20,42
+Rhode Island,RI,Democrats,4,44
+South Carolina,SC,Republicans,9,45
+South Dakota,SD,Republicans,3,46
+Tennessee,TN,Republicans,11,47
+Texas,TX,Republicans,38,48
+Utah,UT,Republicans,6,49
+Vermont,VT,Democrats,3,50
+Virginia,VA,Democrats,13,51
+Washington,WA,Democrats,12,53
+West Virginia,WV,Republicans,5,54
+Wisconsin,WI,Republicans,10,55
+Wyoming,WY,Republicans,3,56

@@ -1,0 +1,3 @@
+useDynLib(cartogramone)
+exportPattern("^[[:alpha:]]+")
+importFrom(Rcpp, evalCpp)

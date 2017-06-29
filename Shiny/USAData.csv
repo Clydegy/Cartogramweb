@@ -1,0 +1,51 @@
+Region.ID,name,abbreviation,Winning.Party,electors
+1,Alabama,AL,Republicans,9
+4,Arizona,AZ,Republicans,11
+5,Arkansas,AR,Republicans,6
+6,California,CA,Democrats,55
+8,Colorado,CO,Democrats,9
+9,Connecticut,CT,Democrats,7
+10,Delaware,DE,Democrats,3
+11,District of Columbia,DC,Democrats,3
+12,Florida,FL,Republicans,29
+13,Georgia,GA,Republicans,16
+16,Idaho,ID,Republicans,4
+17,Illinois,IL,Democrats,20
+18,Indiana,IN,Republicans,11
+19,Iowa,IA,Republicans,6
+20,Kansas,KS,Republicans,6
+21,Kentucky,KY,Republicans,8
+22,Louisiana,LA,Republicans,8
+2301,Maine1,ME1,Democrats,3
+2302,Maine2,ME2,Republicans,1
+24,Maryland,MD,Democrats,10
+25,Massachusetts,MA,Democrats,11
+26,Michigan,MI,Republicans,16
+27,Minnesota,MN,Democrats,10
+28,Mississippi,MS,Republicans,6
+29,Missouri,MO,Republicans,10
+30,Montana,MT,Republicans,3
+31,Nebraska,NE,Republicans,5
+32,Nevada,NV,Democrats,6
+33,New Hampshire,NH,Democrats,4
+34,New Jersey,NJ,Democrats,14
+35,New Mexico,NM,Democrats,5
+36,New York,NY,Democrats,29
+37,North Carolina,NC,Republicans,15
+38,North Dakota,ND,Republicans,3
+39,Ohio,OH,Republicans,18
+40,Oklahoma,OK,Republicans,7
+41,Oregon,OR,Democrats,7
+42,Pennsylvania,PA,Republicans,20
+44,Rhode Island,RI,Democrats,4
+45,South Carolina,SC,Republicans,9
+46,South Dakota,SD,Republicans,3
+47,Tennessee,TN,Republicans,11
+48,Texas,TX,Republicans,38
+49,Utah,UT,Republicans,6
+50,Vermont,VT,Democrats,3
+51,Virginia,VA,Democrats,13
+53,Washington,WA,Democrats,12
+54,West Virginia,WV,Republicans,5
+55,Wisconsin,WI,Republicans,10
+56,Wyoming,WY,Republicans,3

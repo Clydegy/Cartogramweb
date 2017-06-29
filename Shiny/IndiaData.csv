@@ -1,0 +1,36 @@
+id,Region.ID,GDPinBillionUSD,state
+1,AN,1.204,Andaman and Nicobar Islands
+2,AP,90.84,Andhra Pradesh
+3,AR,2.651,Arunachal Pradesh
+4,AS,31.206,Assam
+5,BR,67.254,Bihar
+6,CH ,5.69,Chandigarh
+7,CT,36.337,Chhattisgarh
+8,DN,0.36,Dadra and Nagar Haveli
+9,DD,0.16,Daman and Diu
+10,DL,76.542,Delhi
+11,GA,9.569,Goa
+12,GJ,149.833,Gujarat
+13,HR,76.11,Haryana
+14,HP,16.162,Himachal Pradesh
+15,JK,17.137,Jammu and Kashmir
+16,JH,33.811,Jharkhand
+17,KA,120.277,Karnataka
+18,KL,77.551,Kerala
+20,MP,85.076,Madhya Pradesh
+21,MH,295.529,Maharashtra
+22,MN,2.803,Manipur
+23,ML,4.29,Meghalaya
+24,MZ,2.015,Mizoram
+25,NL,3.473,Nagaland
+26,OD,53.421,Odisha
+27,PY,4.125,Puducherry
+28,PB,62.145,Punjab
+29,RJ,101.296,Rajasthan
+30,SK,2.422,Sikkim
+31,TN,167.172,Tamil Nadu
+32,TG,76.665,Telangana
+33,TR,5.247,Tripura
+34,UP,168.837,Uttar Pradesh
+35,UK,24.051,Uttarakhand
+36,WB,138.272,West Bengal
